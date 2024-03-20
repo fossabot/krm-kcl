@@ -3,6 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/kcl-lang.io/krm-kcl)](https://goreportcard.com/report/kcl-lang.io/krm-kcl)
 [![GoDoc](https://godoc.org/kcl-lang.io/krm-kcl?status.svg)](https://godoc.org/kcl-lang.io/krm-kcl)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://kcl-lang.io/krm-kcl/blob/main/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fkrm-kcl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fkrm-kcl?ref=badge_shield)
 
 The KRM KCL function SDK contains a KRM KCL spec and an interpreter to run KCL codes to generate, mutate or validate Kubernetes resources.
 
@@ -110,3 +111,7 @@ You can directly use [KCL standard libraries](https://kcl-lang.io/docs/reference
 + [KPT KCL Plugin](https://github.com/kcl-lang/kpt-kcl)
 + [KCL Operator](https://github.com/kcl-lang/kcl-operator)
 + [Crossplane KCL Function](https://github.com/crossplane-contrib/function-kcl)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcl-lang%2Fkrm-kcl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcl-lang%2Fkrm-kcl?ref=badge_large)
